@@ -1,15 +1,15 @@
 ![](https://i.imgur.com/OCp5kod.png)
 
 
-<center>
-
 # Gain DAO Whitepaper
 ## Introducing: Hybrid Finance (HyFi)
 ### Version 1.0 | May 2021
 ##### Robert McDonell, Tristan Roberts, Amin Rafiee, Hector Torres, et al. 
 ### GainDAO.io
-</center>
+
+
 ---
+
 ## 0.1 Abstract
 Gain is an Ether-based pool, powered by machine learning optimized trading algorithms operating in traditional financial markets. Gain serves as a bridge between centralized and decentralized financial systems, leveraging the strengths of each to provide an attractive alternative to current DeFi investment vehicles. As a GAIN token holder, one can benefit not only from the possible appreciation of the underlying base asset (Ether), but also from algorithmic trading strategies intended to grow the amount of Ether in the Gain Pool. 
 
@@ -19,7 +19,7 @@ As a community driven project, GAIN tokens also serve as a governance mechanism 
 
 - **Gain** is a Trust ([BVI](https://docs.google.com/document/d/1Dg6PPgxgzGYaXZlpT_sV1K2M4U-MhPZOkcmGC0bxyEU/edit#heading=h.rcrhiitgo2k7))  tied to a decentralized organization ([DAO](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)). 
 - The **Gain Pool** is powered by machine learning trading algorithms, with the objective of growing the amount of [Ether](https://en.wikipedia.org/wiki/Ethereum) present in the Pool.   
-- A seed and decentralized exchange distribution will provide the initial Ether for the Gain Pool, in exchange for GAIN, an [ERC20](https://docs.google.com/document/d/1Dg6PPgxgzGYaXZlpT_sV1K2M4U-MhPZOkcmGC0bxyEU/edit#heading=h.89rh60t0iie5) token. 
+- A seed and decentralized exchange distribution will provide the initial Ether for the Gain Pool, in exchange for **GAIN**, an [ERC20](https://docs.google.com/document/d/1Dg6PPgxgzGYaXZlpT_sV1K2M4U-MhPZOkcmGC0bxyEU/edit#heading=h.89rh60t0iie5) token. 
 - GAIN combines a non-inflationary base asset with proven trading algorithms to create a viable alternative to solely traditional or decentralized finance investments. 
 
 ## 0.2 Gain Thesis
