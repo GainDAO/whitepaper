@@ -132,7 +132,8 @@ The DAO Manager will execute a withdrawal from the Broker to the Harvesting Cont
 **Fiat Liquidity Provider:** A liquidity provider by definition is a market broker or institution which behaves as a market maker in a chosen asset class.
 
 #### 5.3.1 Legal Entity Map
-![](https://i.imgur.com/uednxlq.png)
+![](https://i.imgur.com/18wS7Je.png)
+
 
 Gain’s legal structure is designed to maximize participant protection while reducing third party risk and tax burdens. In this structure, operations made by the token-issuing entity, Gain Enterprises, are independent from the day to day operations of the Gain Trust. This ensures that  token owners' legal right to GE’s resources in the event of dissolution will not be affected by agreements that GDT may undertake in the course of creating the Gain Pool. 
 
@@ -285,12 +286,12 @@ The three strategies together are complementary and lead to a smooth equity curv
 **Q3/Q4 2021**
 - Pool Expansion: Stage 1 & 2
 - DAO launched & manager elected
-- Public Sale contract written, audited, and deployed
+- Expansion contract written, audited, and deployed
 - Oct 1st, first harvesting completed
 
 **2022**
 - Pool Expansion: Stage 3
-- Launch of additional funds (other markets / base assets) upon DAO vote
+- Launch of additional Pools (other markets / base assets) upon DAO vote
 - DAO grants develop decentralized architecture to disintermediate legacy actors
 
 ## 11.0 Information
