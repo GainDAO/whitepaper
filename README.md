@@ -45,8 +45,8 @@ Gain uniquely offers a hybrid asset, made possible through a combination of lega
 ## 2.0 Model
 ![](https://i.imgur.com/LBwV6dj.png)
 
-1. GAIN tokens are exchanged for Ether during the Seed Round and Public sale, as described further in ‘Token Parameters’ below.
-1. 1,000 Ether from the Seed Round and 100% of the Ether from the Public sale will be sent to the Brokers the Gain DAO is partnered with and credited to the Gain Pool.
+1. GAIN tokens are exchanged for Ether during the Seed Round and subsequent Pool Expansions. See ‘Token Parameters’ section below.
+1. 1,000 Ether from the Seed Round and 100% of the Ether from each of the Pool Expansions will be sent to the Brokers that Gain DAO is partnered with and credited to the Gain Pool.
 1. The Gain Pool will begin trading no later than a month after the Seed Round’s conclusion. The Gain Pool uses trading algorithms, and daily profits and losses will be recorded in Ether. Trade records will be verified by third-party auditor [myfxbook](http://www.myfxbook.com/) and will be available in monthly statements provided by the Broker.
 1. On a quarterly basis, Ether is withdrawn from the Gain Pool. This Ether is exchanged for GAIN tokens that have been sent to the Harvest Contract to establish a price floor.
 
@@ -89,8 +89,9 @@ The DAO Manager will execute a withdrawal from the Broker to the Harvesting Cont
 
 
 - A maximum of 42,000,000 Gain tokens will ever be minted.
+- After the Seed Sale concludes, a soft cap of 10.5M will be set for GAIN tokens until a DAO vote approves the first Expansion Stage.
 - 15% of total supply will be distributed during the Seed Sale. 
-- 75% of total supply will be distributed during the Public Sale, in 3 participation tiers.
+- 75% of total supply will be distributed in three Expansion Stages, with 8.4M GAIN tokens being released per stage.
 - The Gain DAO will allocate 10% of the total supply to the Gain Trust’s multi-signature wallet. These tokens are for compensating project members, funding marketing efforts, and providing liquidity for the GAIN/ETH trading pair on Uniswap. 
 - Only 15% (630,000) of the Trust’s GAIN tokens will be liquid prior to the Seed Round. The remaining 85% (3,570,000) GAIN tokens will be placed on the same release schedule as the Seed Investors.
 - Seed investors have a six month cliff. Following this period, GAIN tokens are released linearly over 12 months. 
@@ -282,11 +283,13 @@ The three strategies together are complementary and lead to a smooth equity curv
 - Gain Pool launched / actively trading 
 
 **Q3/Q4 2021**
+- Pool Expansion: Stage 1 & 2
 - DAO launched & manager elected
 - Public Sale contract written, audited, and deployed
 - Oct 1st, first harvesting completed
 
 **2022**
+- Pool Expansion: Stage 3
 - Launch of additional funds (other markets / base assets) upon DAO vote
 - DAO grants develop decentralized architecture to disintermediate legacy actors
 
