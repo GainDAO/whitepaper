@@ -43,7 +43,8 @@ Gain uniquely offers a hybrid asset, made possible through a combination of lega
 
 
 ## 2.0 Model
-![](https://i.imgur.com/LBwV6dj.png)
+![Uploading file..._et3qju72a]()
+
 
 1. GAIN tokens are exchanged for Ether during the Seed Round and subsequent Pool Expansions. See ‘Token Parameters’ section below.
 1. 1,000 Ether from the Seed Round and 100% of the Ether from each of the Pool Expansions will be sent to the Brokers that Gain DAO is partnered with and credited to the Gain Pool.
@@ -51,8 +52,7 @@ Gain uniquely offers a hybrid asset, made possible through a combination of lega
 1. On a quarterly basis, Ether is withdrawn from the Gain Pool. This Ether is exchanged for GAIN tokens that have been sent to the Harvest Contract to establish a price floor.
 
 ## 3.0 Harvest
-![](https://i.imgur.com/mQyIFqA.png)
-
+![](https://i.imgur.com/Kea1t3S.png)
 
 
 The Harvest is a quarterly process that allows token holders to redeem their GAIN for Ether. The requests for Redemption are satisfied by a  withdrawal of a portion of the Ether from the Gain Pool each quarter.
