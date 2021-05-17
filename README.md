@@ -43,7 +43,7 @@ Gain uniquely offers a hybrid asset, made possible through a combination of lega
 
 
 ## 2.0 Model
-![Uploading file..._et3qju72a]()
+![](https://i.imgur.com/2WwwPkr.png)
 
 
 1. GAIN tokens are exchanged for Ether during the Seed Round and subsequent Pool Expansions. See ‘Token Parameters’ section below.
