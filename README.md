@@ -51,7 +51,8 @@ Gain uniquely offers a hybrid asset, made possible through a combination of lega
 1. On a quarterly basis, Ether is withdrawn from the Gain Pool. This Ether is exchanged for GAIN tokens that have been sent to the Harvest Contract to establish a price floor.
 
 ## 3.0 Harvest
-![](https://i.imgur.com/Kea1t3S.png)
+![](https://i.imgur.com/mQyIFqA.png)
+
 
 
 The Harvest is a quarterly process that allows token holders to redeem their GAIN for Ether. The requests for Redemption are satisfied by a  withdrawal of a portion of the Ether from the Gain Pool each quarter.
@@ -84,7 +85,8 @@ The DAO Manager will execute a withdrawal from the Broker to the Harvesting Cont
 
 
 ## 4.0 Token Parameters
-![](https://i.imgur.com/aGcDJDt.png)
+![](https://i.imgur.com/tVkg9b0.png)
+
 
 
 
