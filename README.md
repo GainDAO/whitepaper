@@ -47,7 +47,7 @@ Gain uniquely offers a hybrid asset, made possible through a combination of lega
 
 
 1. GAIN tokens are exchanged for Ether during the Seed Round and subsequent Pool Expansions. See ‘Token Parameters’ section below.
-2. 1,000 Ether from the Seed Round and 100% of the Ether from each of the Pool Expansions will be sent to the Brokers that Gain DAO is partnered with and credited to the Gain Pool.
+2. 1,000 Ether from the Seed Round (47%) and 100% of the Ether from each of the Pool Expansions will be sent to the Brokers that Gain DAO is partnered with and credited to the Gain Pool.
 3. The Gain Pool will begin trading no later than a month after the Seed Round concludes. The Gain Pool uses trading algorithms, and daily profits and losses will be recorded in Ether. Trade records will be verified by third-party auditor [myfxbook](http://www.myfxbook.com/) and will be available in monthly statements provided by the Broker.
 4. On a quarterly basis, Ether is withdrawn from the Gain Pool. This Ether is exchanged for GAIN tokens that have been sent to the Harvest Contract to establish a price floor.
 
