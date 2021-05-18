@@ -43,7 +43,8 @@ Gain uniquely offers a hybrid asset, made possible through a combination of lega
 
 
 ## 2.0 Model
-![](https://i.imgur.com/2WwwPkr.png)
+![](https://i.imgur.com/UH6vHKv.png)
+
 
 
 1. GAIN tokens are exchanged for Ether during the Seed Round and subsequent Pool Expansions. See ‘Token Parameters’ section below.
@@ -85,7 +86,8 @@ The DAO Manager will execute a withdrawal from the Broker to the Harvesting Cont
 
 
 ## 4.0 Token Parameters
-![](https://i.imgur.com/tVkg9b0.png)
+![](https://i.imgur.com/GVqx7Xc.png)
+
 
 
 
@@ -134,7 +136,8 @@ The DAO Manager will execute a withdrawal from the Broker to the Harvesting Cont
 **Fiat Liquidity Provider:** A liquidity provider by definition is a market broker or institution which behaves as a market maker in a chosen asset class.
 
 #### 5.3.1 Legal Entity Map
-![](https://i.imgur.com/18wS7Je.png)
+![](https://i.imgur.com/plvSEnr.png)
+
 
 
 Gain’s legal structure is designed to maximize participant protection while reducing third party risk and tax burdens. In this structure, operations made by the token-issuing entity, Gain Enterprises, are independent from the day to day operations of the Gain Trust. This ensures that  token owners' legal right to GE’s resources in the event of dissolution will not be affected by agreements that GDT may undertake in the course of creating the Gain Pool.
