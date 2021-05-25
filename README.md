@@ -95,7 +95,7 @@ The DAO Manager will execute a withdrawal from the Broker to the Harvesting Cont
 - A maximum of 42,000,000 Gain tokens will ever be minted.
 - After the Seed Sale concludes, a soft cap of 10.5M will be set for GAIN tokens until a DAO vote approves the first Expansion Stage.
 - 15% of total supply will be distributed during the Seed Sale.
-- 75% of total supply will be distributed in three Expansion Stages, with 8.4M GAIN tokens being released per stage.
+- 75% of total supply will be distributed in three Expansion Stages, with 10.5M GAIN tokens being released per stage.
 - The Gain DAO will allocate 10% of the total supply to the Gain Trust’s multi-signature wallet. These tokens are for compensating project members, funding marketing efforts, and providing liquidity for the GAIN/ETH trading pair on Uniswap.
 - 15% (630,000) of the Trust’s GAIN tokens will be liquid prior to the Seed Round. The remaining 85% (3,570,000) GAIN tokens will be placed on the same release schedule as the Seed Investors.
 - Seed investors have a six month cliff. Following this period, GAIN tokens are released linearly over 12 months.
