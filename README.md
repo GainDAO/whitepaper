@@ -86,7 +86,8 @@ The DAO Manager will execute a withdrawal from the Broker to the Harvesting Cont
 
 
 ## 4.0 Token Parameters
-![](https://i.imgur.com/GVqx7Xc.png)
+![](https://i.imgur.com/KqXWx6a.png)
+
 
 
 
@@ -170,13 +171,14 @@ https://www.myfxbook.com/members/Cornerstone1/gain-dao-fund-beta/7670587
 
 </center>
 
-![](https://i.imgur.com/KaKe6yP.png)
+![](https://i.imgur.com/KvHBmiA.png)
+
 
 ### 7.1 Pool Statistics
 
 | Total Growth | Monthly | Profit Factor | Max Drawdowns    |  Trade Expectancy   |
 | ------------ | ------- | ------------- | --- | --- |
-| 193%         | 13.26%    | 1.86          |   20.5%  |  297 PIPS   |
+| 204%         | 12.77%    | 1.88          |   20.5%  | 305 PIPS   |
 
 ## 8.0 Algorithmic Strategies Deployed by Cornerstone
 
