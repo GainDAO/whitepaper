@@ -3,7 +3,7 @@
 
 # Gain DAO Whitepaper
 ## Introducing: Hybrid Finance (HyFi)
-### Version 1.2 | May 2021
+### Version 1.2 | June 2021
 ##### Robert McDonell, Tristan Roberts, Amin Rafiee, Hector Torres, et al.
 ### GainDAO.io
 
