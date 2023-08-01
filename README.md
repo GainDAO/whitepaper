@@ -51,3 +51,4 @@
 ![gain.ai whitepaper page 47](./images/wp-v3--47.jpg)
 ![gain.ai whitepaper page 48](./images/wp-v3--48.jpg)
 ![gain.ai whitepaper page 49](./images/wp-v3--49.jpg)
+![gain.ai whitepaper page 50](./images/wp-v3--50.jpg)
