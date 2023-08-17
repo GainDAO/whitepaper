@@ -1,6 +1,6 @@
 # Gain AI Whitepaper
 
-### Version 3.0 | August 2023
+### Version 3.1 | August 2023
 
 ![gain.ai whitepaper page 01](./images/wp-v3--01.jpg)
 ![gain.ai whitepaper page 02](./images/wp-v3--02.jpg)
